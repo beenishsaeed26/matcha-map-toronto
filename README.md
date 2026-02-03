@@ -1,2 +1,2 @@
 # matcha-map-toronto
-Matcha Map is an interactive web app built with React and React Leaflet that highlights some of the best matcha cafés in Toronto. Users can explore curated spots on a map, filter by price and rating, and discover popular matcha drinks at each location.
+Matcha Map is an interactive web app built with React and Leaflet that highlights some of the best matcha drinks in Toronto. Users can explore carefully curated locations through an interactive map, filter cafés by price and rating, and discover popular matcha drinks at each spot. The project focuses on clean UI design, usability, and presenting data in a fun and approachable way!
