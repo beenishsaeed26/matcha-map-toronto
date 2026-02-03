@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matcha-map-toronto/static/css/main.2e662a65.css",
+    "main.js": "/matcha-map-toronto/static/js/main.2c08e981.js",
+    "index.html": "/matcha-map-toronto/index.html",
+    "main.2e662a65.css.map": "/matcha-map-toronto/static/css/main.2e662a65.css.map",
+    "main.2c08e981.js.map": "/matcha-map-toronto/static/js/main.2c08e981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e662a65.css",
+    "static/js/main.2c08e981.js"
+  ]
+}
