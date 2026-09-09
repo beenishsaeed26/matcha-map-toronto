@@ -23,6 +23,9 @@ curated matcha cafes in Toronto through a dynamic map interface.
 
 ### Installation
 git clone https://github.com/beenishsaeed26/matchamap
+
 cd matchamap
+
 npm install
+
 npm start
