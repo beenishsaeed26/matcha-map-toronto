@@ -22,7 +22,7 @@ curated matcha cafes in Toronto through a dynamic map interface.
 - Node.js installed
 
 ### Installation
-git clone https://github.com/yourusername/matchamap
+git clone https://github.com/beenishsaeed26/matchamap
 cd matchamap
 npm install
 npm start
